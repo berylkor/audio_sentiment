@@ -1,0 +1,2 @@
+C:/Users/beryl/Downloads/audioRecorder-master/audioRecorder-master/android/app/.cxx/Debug/6k1z511i/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/beryl/Downloads/audioRecorder-master/audioRecorder-master/android/app/.cxx/Debug/6k1z511i/x86_64/CMakeFiles/rebuild_cache.dir
